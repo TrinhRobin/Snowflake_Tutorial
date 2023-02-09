@@ -1,0 +1,391 @@
+id,name,region
+1,Canalave City,Sinnoh
+2,Eterna City,Sinnoh
+3,Pastoria City,Sinnoh
+4,Sunyshore City,Sinnoh
+5,Pokémon League,Sinnoh
+6,Oreburgh Mine,Sinnoh
+7,Valley Windworks,Sinnoh
+8,Eterna Forest,Sinnoh
+9,Fuego Ironworks,Sinnoh
+10,Mt. Coronet,Sinnoh
+11,Great Marsh,Sinnoh
+12,Solaceon Ruins,Sinnoh
+13,Victory Road,Sinnoh
+14,Ravaged Path,Sinnoh
+15,Oreburgh Gate,Sinnoh
+16,Stark Mountain,Sinnoh
+17,Spring Path,Sinnoh
+18,Turnback Cave,Sinnoh
+19,Snowpoint Temple,Sinnoh
+20,Wayward Cave,Sinnoh
+22,Ruin Maniac Cave,Sinnoh
+23,Trophy Garden,Sinnoh
+24,Iron Island,Sinnoh
+25,Old Chateau,Sinnoh
+26,Lake Verity,Sinnoh
+27,Lake Valor,Sinnoh
+28,Lake Acuity,Sinnoh
+29,Valor Lakefront,Sinnoh
+30,Acuity Lakefront,Sinnoh
+40,Lost Tower,Sinnoh
+58,Twinleaf Town,Sinnoh
+59,Celestic Town,Sinnoh
+60,Resort Area,Sinnoh
+61,Sea Route 220,Sinnoh
+62,Sea Route 223,Sinnoh
+63,Sea Route 226,Sinnoh
+64,Sea Route 230,Sinnoh
+65,Blackthorn City,Johto
+66,Burned Tower,Johto
+67,Celadon City,Kanto
+68,Cerulean City,Kanto
+69,Cherrygrove City,Johto
+70,Cianwood City,Johto
+71,Cinnabar Island,Kanto
+72,Dark Cave,Johto
+73,Diglett's Cave,Kanto
+74,Dragon's Den,Johto
+75,Ecruteak City,Johto
+76,Fuchsia City,Kanto
+77,Ice Path,Johto
+78,Ilex Forest,Johto
+79,Lake of Rage,Johto
+80,Mt. Moon,Kanto
+81,Mt. Mortar,Johto
+82,Mt. Silver,Johto
+83,National Park,Johto
+84,New Bark Town,Johto
+85,Olivine City,Johto
+86,Pallet Town,Kanto
+87,Rock Tunnel,Kanto
+98,Sea Route 19,Kanto
+100,Sea Route 20,Kanto
+101,Sea Route 21,Kanto
+121,Sea Route 40,Johto
+122,Sea Route 41,Johto
+135,Ruins of Alph,Johto
+136,Seafoam Islands,Kanto
+137,Slowpoke Well,Johto
+138,Sprout Tower,Johto
+139,Bell Tower,Johto
+140,Tohjo Falls,Johto
+141,Union Cave,Johto
+147,Cerulean Cave,Kanto
+148,Unknown; all Poliwag,Johto
+149,Unknown; all Rattata,Johto
+150,Unknown; all bugs,Johto
+151,Vermilion City,Kanto
+152,Victory Road,Kanto
+153,Violet City,Johto
+154,Viridian City,Kanto
+155,Viridian Forest,Kanto
+156,Whirl Islands,Johto
+158,Power Plant,Kanto
+159,Victory Road,Kanto
+160,Pokémon Tower,Kanto
+161,Pokémon Mansion,Kanto
+162,Safari Zone,Kanto
+163,Sandgem Town,Sinnoh
+164,Floaroma Town,Sinnoh
+165,Solaceon Town,Sinnoh
+167,Jubilife City,Sinnoh
+168,Oreburgh City,Sinnoh
+169,Hearthome City,Sinnoh
+170,Veilstone City,Sinnoh
+171,Snowpoint City,Sinnoh
+172,Spear Pillar,Sinnoh
+173,Pal Park,Sinnoh
+174,Amity Square,Sinnoh
+175,Floaroma Meadow,Sinnoh
+177,Fullmoon Island,Sinnoh
+178,Sendoff Spring,Sinnoh
+179,Flower Paradise,Sinnoh
+180,Maniac Tunnel,Sinnoh
+181,Galactic HQ,Sinnoh
+182,Verity Lakefront,Sinnoh
+183,Newmoon Island,Sinnoh
+184,Battle Tower,Sinnoh
+185,Fight Area,Sinnoh
+186,Survival Area,Sinnoh
+187,Seabreak Path,Sinnoh
+188,Hall of Origin,Sinnoh
+189,Hall of Origin,Sinnoh
+190,Verity Cavern,Sinnoh
+191,Valor Cavern,Sinnoh
+192,Acuity Cavern,Sinnoh
+193,Jubilife TV,Sinnoh
+194,Pokétch Co.,Sinnoh
+195,GTS,Sinnoh
+196,Trainers’ School,Sinnoh
+197,Mining Museum,Sinnoh
+198,Flower Shop,Sinnoh
+199,Cycle Shop,Sinnoh
+200,Contest Hall,Sinnoh
+201,Poffin House,Sinnoh
+202,Foreign Building,Sinnoh
+203,Pokémon Day Care,Sinnoh
+204,Veilstone Store,Sinnoh
+205,Game Corner,Sinnoh
+206,Canalave Library,Sinnoh
+207,Vista Lighthouse,Sinnoh
+208,Sunyshore Market,Sinnoh
+209,Footstep House,Sinnoh
+210,Café,Sinnoh
+211,Grand Lake,Sinnoh
+212,Restaurant,Sinnoh
+213,Battle Park,Sinnoh
+214,Battle Frontier,Sinnoh
+215,Battle Factory,Sinnoh
+216,Battle Castle,Sinnoh
+217,Battle Arcade,Sinnoh
+218,Battle Hall,Sinnoh
+219,Distortion World,Sinnoh
+220,Global Terminal,Sinnoh
+221,Villa,Sinnoh
+222,Battleground,Sinnoh
+223,ROTOM's Room,Sinnoh
+224,T.G. Eterna Bldg,Sinnoh
+225,Iron Ruins,Sinnoh
+226,Iceberg Ruins,Sinnoh
+227,Rock Peak Ruins,Sinnoh
+228,Azalea Town,Johto
+229,Goldenrod City,Johto
+230,Mahogany Town,Johto
+231,Pewter City,Johto
+232,Lavender Town,Johto
+233,Indigo Plateau,Johto
+234,Saffron City,Johto
+236,Lighthouse,Johto
+237,Team Rocket HQ,Johto
+238,Goldenrod Tunnel,Johto
+239,Mt. Silver Cave,Johto
+241,Pokéathlon Dome,Johto
+242,S.S. Aqua,Johto
+243,Safari Zone Gate,Johto
+244,Cliff Cave,Johto
+245,Frontier Access,Johto
+246,Bellchime Trail,Johto
+247,Sinjoh Ruins,Johto
+248,Embedded Tower,Johto
+249,Pokéwalker,Johto
+250,Cliff Edge Gate,Johto
+252,Radio Tower,Johto
+344,Mystery Zone,Unova
+345,Faraway place,Unova
+346,Nuvema Town,Unova
+347,Accumula Town,Unova
+348,Striaton City,Unova
+349,Nacrene City,Unova
+350,Castelia City,Unova
+351,Nimbasa City,Unova
+352,Driftveil City,Unova
+353,Mistralton City,Unova
+354,Icirrus City,Unova
+355,Opelucid City,Unova
+374,Dreamyard,Unova
+375,Pinwheel Forest,Unova
+376,Desert Resort,Unova
+377,Relic Castle,Unova
+378,Cold Storage,Unova
+379,Chargestone Cave,Unova
+380,Twist Mountain,Unova
+381,Dragonspiral Tower,Unova
+382,Victory Road,Unova
+383,Lacunosa Town,Unova
+384,Undella Town,Unova
+385,Anville Town,Unova
+386,Pokémon League,Unova
+387,N's Castle,Unova
+388,Royal Unova,Unova
+389,Gear Station,Unova
+390,Battle Subway,Unova
+391,Musical Theater,Unova
+392,Black City,Unova
+393,White Forest,Unova
+394,Unity Tower,Unova
+395,Wellspring Cave,Unova
+396,Mistralton Cave,Unova
+397,Rumination Field,Unova
+398,Celestial Tower,Unova
+399,Moor of Icirrus,Unova
+400,Shopping Mall,Unova
+401,Challenger's Cave,Unova
+402,Poké Transfer Lab,Unova
+403,Giant Chasm,Unova
+404,Liberty Garden,Unova
+405,P2 Laboratory,Unova
+406,Skyarrow Bridge,Unova
+407,Driftveil Drawbridge,Unova
+408,Tubeline Bridge,Unova
+409,Village Bridge,Unova
+410,Marvelous Bridge,Unova
+411,Entralink,Unova
+412,Abundant Shrine,Unova
+413,Undella Bay,Unova
+414,Lostlorn Forest,Unova
+415,Trial Chamber,Unova
+416,Guidance Chamber,Unova
+417,Entree Forest,Unova
+418,Accumula Gate,Unova
+419,Undella Gate,Unova
+420,Nacrene Gate,Unova
+421,Castelia Gate,Unova
+422,Nimbasa Gate,Unova
+423,Opelucid Gate,Unova
+424,Black Gate,Unova
+425,White Gate,Unova
+426,Bridge Gate,Unova
+428,Abyssal Ruins,Unova
+429,Petalburg City,Hoenn
+430,Slateport City,Hoenn
+431,Lilycove City,Hoenn
+432,Mossdeep City,Hoenn
+433,Sootopolis City,Hoenn
+434,Ever Grande City,Hoenn
+435,Meteor Falls,Hoenn
+436,Rusturf Tunnel,Hoenn
+437,Granite Cave,Hoenn
+438,Petalburg Woods,Hoenn
+439,Jagged Pass,Hoenn
+440,Fiery Path,Hoenn
+441,Mt. Pyre,Hoenn
+442,Seafloor Cavern,Hoenn
+443,Cave of Origin,Hoenn
+444,Victory Road,Hoenn
+445,Shoal Cave,Hoenn
+446,New Mauville,Hoenn
+447,Abandoned Ship,Hoenn
+448,Sky Pillar,Hoenn
+483,Safari Zone,Hoenn
+484,Dewford Town,Hoenn
+485,Pacifidlog Town,Hoenn
+486,Magma Hideout,Hoenn
+487,Mirage Tower,Hoenn
+488,Desert Underpass,Hoenn
+489,Artisan Cave,Hoenn
+490,Altering Cave,Hoenn
+491,Monean Chamber,Kanto
+492,Liptoo Chamber,Kanto
+493,Weepth Chamber,Kanto
+494,Dilford Chamber,Kanto
+495,Scufib Chamber,Kanto
+496,Rixy Chamber,Kanto
+497,Viapos Chamber,Kanto
+498,S.S. Anne,Kanto
+499,Victory Road,Kanto
+500,Mt. Ember,Kanto
+501,Berry Forest,Kanto
+502,Icefall Cave,Kanto
+503,Pattern Bush,Kanto
+504,Lost Cave,Kanto
+505,Kindle Road,Kanto
+506,Treasure Beach,Kanto
+507,Cape Brink,Kanto
+508,Bond Bridge,Kanto
+509,Three Isle Port,Kanto
+510,Resort Gorgeous,Kanto
+511,Water Labyrinth,Kanto
+512,Five Isle Meadow,Kanto
+513,Memorial Pillar,Kanto
+514,Outcast Island,Kanto
+515,Green Path,Kanto
+516,Water Path,Kanto
+517,Ruin Valley,Kanto
+518,Trainer Tower,Kanto
+519,Canyon Entrance,Kanto
+520,Sevault Canyon,Kanto
+521,Tanoby Ruins,Kanto
+526,One Island,Kanto
+527,Four Island,Kanto
+528,Five Island,Kanto
+529,Altering Cave,Kanto
+530,Victory Road,Kanto
+531,Aspertia City,Unova
+532,Virbank City,Unova
+533,Humilau City,Unova
+534,PokéStar Studios,Unova
+535,Join Avenue,Unova
+536,Floccesy Town,Unova
+537,Lentimas Town,Unova
+543,Castelia Sewers,Unova
+544,Floccesy Ranch,Unova
+545,Virbank Complex,Unova
+546,Reversal Mountain,Unova
+547,Strange House,Unova
+548,Victory Road,Unova
+549,Plasma Frigate,Unova
+550,Relic Passage,Unova
+551,Clay Tunnel,Unova
+552,White Treehollow,Unova
+553,Black Tower,Unova
+554,Seaside Cave,Unova
+555,Cave of Being,Unova
+556,Hidden Grotto,Unova
+557,Marine Tube,Unova
+558,Virbank Gate,Unova
+559,Aspertia Gate,Unova
+560,Nature Sanctuary,Unova
+561,Medal Secretariat,Unova
+562,Underground Ruins,Unova
+563,Rocky Mountain Room,Unova
+564,Glacier Room,Unova
+565,Iron Room,Unova
+566,Pledge Grove,Unova
+567,Littleroot Town,Hoenn
+568,Oldale Town,Hoenn
+569,Lavaridge Town,Hoenn
+570,Fallarbor Town,Hoenn
+571,Verdanturf Town,Hoenn
+572,Mauville City,Hoenn
+573,Rustboro City,Hoenn
+574,Fortree City,Hoenn
+575,Underwater,Hoenn
+576,Mt. Chimney,Hoenn
+577,Mirage Island,Hoenn
+578,Southern Island,Hoenn
+579,Sealed Chamber,Hoenn
+580,Scorched Slab,Hoenn
+581,Island Cave,Hoenn
+582,Desert Ruins,Hoenn
+583,Ancient Tomb,Hoenn
+584,Inside of truck,Hoenn
+585,Secret Base,Hoenn
+586,Battle Tower,Hoenn
+587,Vaniville Town,Kalos
+588,Aquacorde Town,Kalos
+589,Santalune Forest,Kalos
+590,Santalune City,Kalos
+591,Lumiose City,Kalos
+592,Camphrier Town,Kalos
+593,Parfum Palace,Kalos
+594,Connecting Cave,Kalos
+595,Cyllage City,Kalos
+596,Ambrette Town,Kalos
+597,Glittering Cave,Kalos
+598,Geosenge Town,Kalos
+599,Reflection Cave,Kalos
+600,Shalour City,Kalos
+601,Coumarine City,Kalos
+602,Sea Spirit's Den,Kalos
+603,Kalos Power Plant,Kalos
+604,Laverre City,Kalos
+605,Poke Ball Factory,Kalos
+606,Lost Hotel,Kalos
+607,Dendemille Town,Kalos
+608,Frost Cavern,Kalos
+609,Anistar City,Kalos
+610,Couriway Town,Kalos
+611,Terminus Cave,Kalos
+612,Snowbelle City,Kalos
+613,Pokemon Village,Kalos
+614,Victory Road,Kalos
+615,Chamber of Emptiness,Kalos
+616,Pokemon League,Kalos
+617,Kiloude City,Kalos
+618,Azure Bay,Kalos
+619,Battle Chateau,Kalos
+620,Battle Maison,Kalos
+621,Tower of Mastery,Kalos
+622,Bourg Bon Air,Furansu
+623,New Cergy,Furansu
