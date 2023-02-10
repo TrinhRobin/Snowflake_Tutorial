@@ -1,10 +1,10 @@
---Choisir la base de données et le schema
+--Choosing Database and schema
 use database MC_DATABASE;
 use schema DEMO;
 use warehouse COMPUTE_WH;
---voir tables disponibles
+--show available data
 show tables;
---Voir schéma table
+--show info about table
 DESCRIBE TABLE POKEDEX;
 --Avoir un premier aperçu des tables :
 SELECT * FROM POKEDEX LIMIT 10;
@@ -13,6 +13,9 @@ SELECT * FROM EVENTS LIMIT 10;
 SELECT * FROM LIEU;
 --Filtre
 SELECT * FROM POKEDEX WHERE GENUS = 'Golem Ancien';
+
+--counting null values
+select count_if(ID_PARENT IS NULL) from elevage;
 
 --Aggregation
 SELECT  REGION, COUNT(DISTINCT NOM) as Nb,COUNT(*) as Nb2
@@ -40,7 +43,7 @@ SELECT  DATEDIFF(day,Date_format ,'2023-02-09' ) as diff_day , DATEDIFF(year,Dat
 --CASE WHEN THEN WHEN THEN ELSE END = IF ELIF ELSE END 
 SELECT DISTINCT TYPE FROM EVENTS;
 
---marche pas :(
+--do not work :( => type conversion
 SELECT AVG(TYPE) FROM EVENTS 
 
 SELECT ID_POKEMON, AVG(
