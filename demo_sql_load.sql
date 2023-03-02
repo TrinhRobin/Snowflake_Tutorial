@@ -72,4 +72,18 @@ from @s3_data/pokemon_db/pokedex.csv
 file_format =  CLASSIC_CSV
 on_error = "CONTINUE" ;
 
+-- Loading json file
+create table products (data variant);
+
+copy into products
+from @s3_data/json_files
+pattern='.*recipes.*[.]json'
+file_format=classic_json;
+
+  select 
+    data:key::string as Col1, 
+    data:key2::string as Col2, 
+    data:key3::string as Col3, 
+    array_size(data:key4) as Col4
+  from products; 
 
