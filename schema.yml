@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: dbt_create_view
+    description: "Creating views for demo"
+    database: MC_DATABASE
+    schema: PUBLIC
+    columns:
+      - name: event_id
+      - name: id_pokemon
+      - name:  gain
+      - name: Date
+      - name: id_lieu
+    materialized: view
+    tags:
+        - create_view
+sources:
+    - name: db_snowflake
+      description: 'database snowflake.'
+      database: MC_DATABASE
+      schema: PUBLIC
+      tables:
+        - name: Elevage
+          description: "Table Pension."  
+        - name: Events
+          description: "Table combat et jobs." 
+        - name: Lieu
+          description: "Table des villes, routes etc." 
+        - name: Pokedex
+          description: "Table avec infos pokemon"
