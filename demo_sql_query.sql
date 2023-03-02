@@ -1,3 +1,7 @@
+-- Getting Account ID AND Region :
+SELECT CURRENT_ACCOUNT();
+SELECT CURRENT_REGION();
+
 --Choosing Database and schema
 use database MC_DATABASE;
 use schema DEMO;
